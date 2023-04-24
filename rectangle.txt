@@ -1,1 +1,1 @@
-area of rec is l*b.
+area of rec is l*b.rec has two dimesions.
