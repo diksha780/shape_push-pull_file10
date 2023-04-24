@@ -1,1 +1,2 @@
 area of rec is l*b.rec has two dimesions.
+rec is a 2D shape.
